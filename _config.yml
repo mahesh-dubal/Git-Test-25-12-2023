@@ -1,0 +1,21 @@
+name:          WisdmLabs Engineering Best Practices
+title:         WisdmLabs Engineering Best Practices
+description:   Engineering best practices used by WisdmLabs.
+url:           https://WisdmLabs.github.io/
+baseurl:       /Engineering-Best-Practices
+author:
+  name:    WisdmLabs
+  email:   sales@WisdmLabs.com
+  github:  WisdmLabs
+  twitter: WisdmLabs
+
+markdown:      kramdown
+permalink:     pretty
+highlighter:   rouge
+encoding:      utf-8
+kramdown:
+  input: GFM
+sass:
+  sass_dir: _includes/_sass
+
+theme: jekyll-theme-cayman
